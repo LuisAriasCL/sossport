@@ -1,0 +1,7 @@
+{
+  "name": "SOSSPORT",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
